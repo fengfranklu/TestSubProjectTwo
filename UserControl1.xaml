@@ -11,7 +11,7 @@
                    HorizontalAlignment="Center" TextAlignment="Center" 
                    VerticalAlignment="Center" TextWrapping="Wrap"
                    FontSize="50" Foreground="Purple" Background="AliceBlue"
-                   > This is from the subproject Two</TextBlock>
+                   > This is from the subproject Two and Edited from Sub Project</TextBlock>
         <TextBlock Padding="30,20,20,20" Width="700" 
                    HorizontalAlignment="Center" TextAlignment="Center" 
                    VerticalAlignment="Center" TextWrapping="Wrap"
