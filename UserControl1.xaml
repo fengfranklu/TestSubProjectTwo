@@ -9,12 +9,12 @@
     <StackPanel>
         <TextBlock Height="100" Width="700" 
                    HorizontalAlignment="Center" TextAlignment="Center" 
-                   VerticalAlignment="Center" 
+                   VerticalAlignment="Center" TextWrapping="Wrap"
                    FontSize="50" Foreground="Purple" Background="AliceBlue"
                    > This is from the subproject Two</TextBlock>
-        <TextBlock Height="100" Width="700" 
+        <TextBlock Padding="30,20,20,20" Width="700" 
                    HorizontalAlignment="Center" TextAlignment="Center" 
-                   VerticalAlignment="Center" 
+                   VerticalAlignment="Center" TextWrapping="Wrap"
                    FontSize="50" Foreground="Purple" Background="AliceBlue"
                    > This is from the subproject Two Version Two</TextBlock>
     </StackPanel>
